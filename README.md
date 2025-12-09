@@ -10,8 +10,6 @@
 ![Convex](https://img.shields.io/badge/Convex-FF4785?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-[Live Demo](#) · [Report Bug](https://github.com/abhishekboadgurjar/BuildMyAiAgent/issues) · [Request Feature](https://github.com/abhishekboadgurjar/BuildMyAiAgent/issues)
-
 </div>
 
 ---
@@ -19,8 +17,6 @@
 ## 🎯 Project Overview
 
 AI Agent Builder empowers users to create sophisticated AI-powered automation workflows through an intuitive visual interface. Built with modern full-stack architecture, it demonstrates enterprise-level patterns for real-time collaboration, serverless computing, and intelligent agent orchestration. Design complex multi-step workflows with drag-and-drop simplicity, integrate with external APIs, and deploy production-ready AI agents—all without writing a single line of code.
-
-**Author:** Abhishek Gurjar — [GitHub Profile](https://github.com/abhishekboadgurjar) | [Portfolio](https://abhishekboadgurjar.vercel.app/)
 
 ---
 
@@ -558,20 +554,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📬 Contact & Support
-
-**Abhishek Gurjar**
-* GitHub: [@abhishekboadgurjar](https://github.com/abhishekboadgurjar)
-* Portfolio: [https://abhishekboadgurjar.vercel.app/](https://abhishekboadgurjar.vercel.app/)
-
-### Get Help
-
-* 🐛 **Report Bugs**: [GitHub Issues](https://github.com/abhishekboadgurjar/BuildMyAiAgent/issues)
-* 💡 **Request Features**: [GitHub Issues](https://github.com/abhishekboadgurjar/BuildMyAiAgent/issues)
-* 💬 **Discussions**: [GitHub Discussions](https://github.com/abhishekboadgurjar/BuildMyAiAgent/discussions)
-
----
-
 ## 🙏 Acknowledgments
 
 * **Convex** - For revolutionary real-time backend infrastructure
@@ -595,9 +577,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
 
 **[⬆ Back to Top](#ai-agent-builder)**
-
-Made with ❤️ by [Abhishek Gurjar](https://github.com/abhishekboadgurjar)
-
-If you find this project helpful, please consider giving it a ⭐️
 
 </div>
